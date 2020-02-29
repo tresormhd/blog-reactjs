@@ -1625,3 +1625,6 @@ body {padding-right: 0px !important;}
   border-radius: 10px;
   background-color: #ec1d25;
 }
+.bg-title-page{
+  background-image: url(/images/bg-title-page-02.jpg);
+}
